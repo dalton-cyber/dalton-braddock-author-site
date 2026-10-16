@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dalton-cyber.github.io/dalton-braddock-author-site/sitemap.xml
